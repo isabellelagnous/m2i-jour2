@@ -1,0 +1,21 @@
+From 308b684b1f5b6ba46e18edecee8ac4f285649175 Mon Sep 17 00:00:00 2001
+From: Isabelle <isabelle@test.com>
+Date: Fri, 13 Sep 2019 10:03:10 +0200
+Subject: [PATCH 2/2] C2
+
+---
+ .gitignore    | 0
+ logs/.gitkeep | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 .gitignore
+ create mode 100644 logs/.gitkeep
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..e69de29
+diff --git a/logs/.gitkeep b/logs/.gitkeep
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.23.0.windows.1
+
