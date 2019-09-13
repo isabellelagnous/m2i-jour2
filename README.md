@@ -19,4 +19,4 @@ Il peut être copié et réutilisé sous la même licence, sous réserve d'en re
 Les rédacteurs des articles de Wikipédia sont bénévoles. Ils coordonnent leurs efforts au sein d'une communauté 
 collaborative, sans dirigeant. 
 
-remodif du fichier
+remodif du fichierxx
